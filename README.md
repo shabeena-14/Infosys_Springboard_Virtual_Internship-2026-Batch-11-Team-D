@@ -59,10 +59,6 @@ Power Query (M Language) – Data cleaning, transformation, and ETL processing.
 
 DAX (Data Analysis Expressions) – Custom measures and analytical calculations.
 
-AI & Native Visuals – Trend analysis and performance insights.
-
-Bing Maps Integration – State-wise geospatial election visualization.
-
 Interactive Slicers – Dynamic filtering by Year, State, and Party.
 # License 
 MIT License: A short and permissive software license that allows media houses to use, copy, and modify your dashboard, provided the original copyright and permission notice are included.
